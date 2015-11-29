@@ -1,15 +1,15 @@
 {
   "name": "elliptical-view",
   "description": "View abstraction for template rendering",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "author": "S. Francis",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tachyon1337/elliptical-view.git"
+    "url": "https://github.com/ellipticaljs/view.git"
   },
   "dependencies":{
-    "elliptical-class": "git+https://github.com/tachyon1337/elliptical-class.git"
+    "elliptical-class": "git+https://github.com/ellipticaljs/class.git"
   },
   "devDependencies": {
     "gulp": "^3.8.7",

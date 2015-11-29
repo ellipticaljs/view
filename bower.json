@@ -1,7 +1,7 @@
 {
   "name": "elliptical-view",
   "description": "View abstraction for template rendering",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "main": "dist/elliptical.view.js",
   "authors": [
     "S. Francis"
@@ -11,7 +11,7 @@
     "view",
     "template"
   ],
-  "homepage": "https://github.com/tachyon1337/elliptical-view",
+  "homepage": "https://github.com/ellipticaljs/view",
   "moduleType": [],
   "ignore": [
     "**/.*",
